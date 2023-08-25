@@ -1,3 +1,5 @@
+Image URI:
+
 Happy SVG:
 data:image/svg+xml;base64,
 PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDIwMCIgd2lkdGg9IjQwMCIgaGVpZ2h0PSI0MDAiIHhtbG5z
